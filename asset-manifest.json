@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/exp1.2.3_svg_drawing_tool/static/css/main.b5b2683d.css",
+    "main.js": "/exp1.2.3_svg_drawing_tool/static/js/main.1daa1857.js",
+    "static/js/453.71c876a1.chunk.js": "/exp1.2.3_svg_drawing_tool/static/js/453.71c876a1.chunk.js",
+    "index.html": "/exp1.2.3_svg_drawing_tool/index.html",
+    "main.b5b2683d.css.map": "/exp1.2.3_svg_drawing_tool/static/css/main.b5b2683d.css.map",
+    "main.1daa1857.js.map": "/exp1.2.3_svg_drawing_tool/static/js/main.1daa1857.js.map",
+    "453.71c876a1.chunk.js.map": "/exp1.2.3_svg_drawing_tool/static/js/453.71c876a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5b2683d.css",
+    "static/js/main.1daa1857.js"
+  ]
+}
